@@ -240,9 +240,9 @@
       <robot_base_frame>base_link</robot_base_frame>
 
       <odometry_source>1</odometry_source>
-      <ros>
+     <!-- <ros>
         <remapping>odom:=wheel/odometry</remapping>
-      </ros>
+      </ros>-->
     </plugin>
   </gazebo>
 </robot>
